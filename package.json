@@ -1,11 +1,9 @@
 {
-  "name": "lab-30",
+  "name": "lab-35",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
-    "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.15.1",
     "md5": "^2.2.1",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
@@ -35,5 +33,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "## Block 5 Project: RESTy",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colosrjones-401d4/lab-35.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colosrjones-401d4/lab-35/issues"
   }
 }
