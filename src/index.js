@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 import App from './app.js';
 
-class Main extends React.Component {
+class Index extends React.Component {
   render() {
     return (
       //wrap provider around everything below
@@ -16,4 +16,4 @@ class Main extends React.Component {
 }
 
 const rootElement = document.getElementById('root');
-ReactDOM.render(<Main />, rootElement);
+ReactDOM.render(<Index />, rootElement);
