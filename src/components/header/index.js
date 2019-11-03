@@ -1,13 +1,18 @@
 import React from 'react';
 
-import '../../styles/header.scss'
+/**
+ * Header class/component
+ * @description renders an h1 tag
+ */
 
-const Header = () => {
-  return (
-    <header>
-      <h1>RESTy</h1>
-    </header>
-  );
-};
+class Header extends React.Component {
+  render() {
+    return (
+      <header>
+        <h1>RESTy</h1>
+      </header>
+    );
+  }
+}
 
 export default Header;

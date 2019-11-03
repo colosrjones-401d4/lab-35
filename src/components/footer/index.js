@@ -1,12 +1,20 @@
 import React from 'react';
 
-import '../../styles/footer.scss';
-const Footer = () => {
-  return (
-    <footer>
-      <p>© 2019 DeltaV Code</p>
-    </footer>
-  );
-};
+/**
+ * Footer class/component
+ * @description renders a p tag that is inside a section tag that is inside a footer tag
+ */
+
+class Footer extends React.Component {
+  render() {
+    return (
+      <footer>
+        <section>
+          <p>&copy;2019 Code Fellows</p>
+        </section>
+      </footer>
+    );
+  }
+}
 
 export default Footer;
