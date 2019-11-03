@@ -5,11 +5,11 @@
 ### Author: Steven Jones
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/colosrjones-401d4/lab-35
 
 * [travis][![Build Status](https://travis-ci.org/colosrjones-401d4/lab-35.svg?branch=master)](https://travis-ci.org/colosrjones-401d4/lab-35)
 
-* [Netlify]
+* [Netlify][![Netlify Status](https://api.netlify.com/api/v1/badges/df4c5924-8def-45c1-9b35-654bc710c69b/deploy-status)](https://app.netlify.com/sites/relaxed-lichterman-2aa10b/deploys)
 
 
 ### Modules
