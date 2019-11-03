@@ -5,7 +5,7 @@
 ### Author: Steven Jones
 
 ### Links and Resources
-* [submission PR](https://github.com/colosrjones-401d4/lab-35
+* [submission PR](https://github.com/colosrjones-401d4/lab-35)
 
 * [travis][![Build Status](https://travis-ci.org/colosrjones-401d4/lab-35.svg?branch=master)](https://travis-ci.org/colosrjones-401d4/lab-35)
 
